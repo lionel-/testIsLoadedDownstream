@@ -1,0 +1,4 @@
+Package: testIsLoadedDownstream
+Title: Downstream package
+Version: 1.0.0
+Imports: testIsLoadedUpstream
